@@ -1,0 +1,2 @@
+# Cryptoclass
+Class for crypto

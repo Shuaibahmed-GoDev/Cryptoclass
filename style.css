@@ -1,0 +1,40 @@
+ 
+body
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(190, 190, 179, 0.355);
+}
+.mytable td
+{
+    text-align: center;
+}
+.mytable
+{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1.9em;
+    width: 75%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.mytable thead tr
+{
+    background-color: #009879;
+    color: azure;
+    
+    
+}
+
+.mytable td, .mytable th
+{
+    padding: 12px 15px;
+}
+.mytable tbody tr
+{
+    border: rgba(190, 190, 179, 0.355) 1px solid;
+}
+.mytable td
+{
+    border: #000000;
+}
